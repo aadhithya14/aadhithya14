@@ -1,7 +1,7 @@
 ### About me 👋
 
 <!--
-**aadhithya14/aadhithya14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aadhithya14/aadhithya14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 I am Aadhithya Iyer and I am an aspiring robotics and AI researcher. I am interested in employing intelligent robots and systems to practical applications.Aiming to become a full stack robotics researcher and I am happy to be a part of a evolution of intelligent robotics in the world. 
 
@@ -12,4 +12,3 @@ I am Aadhithya Iyer and I am an aspiring robotics and AI researcher. I am intere
 - Ask me about any AI and math related stuff.
 - I have also contributed to the open-source community through my notes and implementations.
 - Connect me through my [LinkedIn](https://www.linkedin.com/in/aadhithya-iyer-147697176/) and [Email](aadhithya14@gmail.com)
--->
