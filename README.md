@@ -9,4 +9,4 @@ I am Aadhithya Iyer and I am an aspiring robotics and AI researcher. I am intere
 - Open for discussion on any AI and robotics related stuff.
 - I have also contributed to the open-source community through my notes and implementations.
 - Connect me through my [LinkedIn](https://www.linkedin.com/in/aadhithya-iyer-147697176/) and [Email](aadhithya14@gmail.com)
-- Check out my [Portfolio](https://aadhithya14.github.io/)
+- Check out my [Website](https://aadhithya14.github.io/)
